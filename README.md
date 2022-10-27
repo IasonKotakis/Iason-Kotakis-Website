@@ -19,3 +19,5 @@
 <hr>
 
 <p> You can find a preview of my website <a href="https://iasonkotakis.s3.amazonaws.com/index.html">here</a>
+<p> UPDATE </p> 
+<p> I will be implementing a Route 53 configuration with its domain so the website URL link won't contain the s3.amazonaws name on it.</p> 
