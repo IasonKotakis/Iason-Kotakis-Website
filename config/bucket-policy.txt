@@ -12,3 +12,5 @@
         }
     ]
 }
+
+You can copy this bucket policy if you would like to make all your files being readable to the public with the difference being that "YOUR-BUCKET-NAME" needs to be changed with the name of your bucket. Also, make sure that on each line their isn't any indentation otherwise you will be getting a JSON configuration error upon setup. 
