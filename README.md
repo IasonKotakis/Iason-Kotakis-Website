@@ -2,10 +2,10 @@
 
 <hr>
 
-<h2> Implementation </h2> 
-<p> This is an implementation that is still work in progress. The notion behind it was to create a website where you could call minimalistic enough without speaking volumes of it's complexity. </p> 
-<p> It uses grid areas to adjust its section where it will either stack vertically or horizontally depending the context of each element. </p> 
-  <p> The Javascript is fairly simple where it will store the according layout and colour for the user's next visit. For example, at first visit the default colour is white. If the user decides to change the colour and close that tab; the next time they visit the website again, the default colour will stay at yellow. This only applies for that specific browser the user decides to visit the website as if the user decides to use a different browser, the colour will be set to it's default value. </p> 
+<h2> Description </h2> 
+<p> This project is work in progress 🚧. <br>The notion behind this project was to create a website where it is minimalistic enough without speaking volumes of it's complexity. </p> 
+<p> The website uses grid areas to adjust its section where it will either stack vertically or horizontally depending the context of each element. </p> 
+  <p> The Javascript is fairly simple where it will store the according layout and colour when the user revisits my website. For example, at first visit the default theme is white. If the user decides to change the theme to a different colour from the ones provided, then the next time they revisit my website, the default colour will stay the same (e.g. yellow). This only applies with the specific browser the user decided to visit my website though would the user decide to visit my website from a different browser, the theme of the page would be set to it's default value. </p> 
 
 <hr>
 
