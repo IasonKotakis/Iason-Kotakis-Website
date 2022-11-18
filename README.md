@@ -12,7 +12,7 @@
 <h2>AWS Setup</h2>
 <p>In order to deploy my website, I used tools and services from AWS.<br><br> 
   First, I uploaded all the necessary images and files into an S3 bucket as well as setting up it's readability permissions by implementing a bucket policy.</p>
-<p>Secondly, I created a record and registered domain with a simple traffic route through Route 53. From there, I requested an SSL certificate through the Certificate Manager t.</p>
+<p>Secondly, I created a record and registered domain with a simple traffic route through Route 53. From there, I requested an SSL certificate through the Certificate Manager tool.</p>
 <p>Lastly, I created a distribution through Cloudfront, which I ended up linking both the SSL and Cloudfront to Route 53, therefore the domain name will get redirected to iasonkotakis.com instead of the original url link of the S3 bucket that was created.</p>
 
 <img src="https://github.com/IasonKotakis/Iason-Kotakis-Website/blob/docs/images/config%20js%20action.png"><img>
