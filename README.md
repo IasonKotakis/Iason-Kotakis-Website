@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2> Ackowledgem </h2> 
+<h2> Ackowledgement </h2> 
 <p> I would like to thank Dennis Ive for helping me out to create this website and have a better understanding of grid areas.</p>
 
 <hr>
